@@ -36,3 +36,16 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "java",        "1.1.0"
+github "osx", 	      "1.5.0"
+github "clojure",     "1.2.0"
+github "emacs",       "1.1.0"
+github "virtualbox",  "1.0.5"
+github "iterm2",      "1.0.3"
+github "firefox",     "1.1.1"
+github "chrome",      "1.1.1"
+github "launchbar",   "1.0.1"
+github "caffeine",    "1.0.0"
+github "flux",        "1.0.0"
+github "omnigraffle", "1.2.0"
