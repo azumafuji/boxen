@@ -17,12 +17,17 @@ class people::azumafuji {
   include emacs
   include virtualbox
   include iterm2::dev
+  include textmate2
   
   include firefox
   include chrome
   include launchbar
   include caffeine
   include omnigraffle::pro
+  include omnioutliner::pro
+  include omnifocus
+  include libreoffice
+  include pycharm
 
 
   $home     = "/Users/dean"
