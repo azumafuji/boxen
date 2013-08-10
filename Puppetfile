@@ -37,8 +37,7 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-#github "libreoffice", "1.0.1", :repo => "azumafuji/puppet-libreoffice"
-github "libreoffice", "4.0.4"
+github "libreoffice", "1.0.1", :repo => "azumafuji/puppet-libreoffice"
 github "java",        "1.1.0"
 github "osx", 	      "1.5.0"
 github "clojure",     "1.2.0"

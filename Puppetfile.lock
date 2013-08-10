@@ -1,4 +1,9 @@
 GITHUBTARBALL
+  remote: azumafuji/puppet-libreoffice
+  specs:
+    libreoffice (1.0.1)
+
+GITHUBTARBALL
   remote: azumafuji/puppet-omnioutliner
   specs:
     omnioutliner (0.1.0)
@@ -89,11 +94,6 @@ GITHUBTARBALL
     launchbar (1.0.1)
 
 GITHUBTARBALL
-  remote: boxen/puppet-libreoffice
-  specs:
-    libreoffice (4.0.4)
-
-GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.2)
@@ -181,7 +181,7 @@ DEPENDENCIES
   iterm2 (= 1.0.3)
   java (= 1.1.0)
   launchbar (= 1.0.1)
-  libreoffice (= 4.0.4)
+  libreoffice (= 1.0.1)
   nginx (= 1.4.2)
   nodejs (= 3.2.8)
   omnifocus (= 1.0.1)
