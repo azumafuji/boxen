@@ -28,7 +28,16 @@ class people::azumafuji {
   include omnifocus
   include libreoffice
   include pycharm
-
+  include sourcetree
+  include sizeup
+  include screenhero
+  include flux 
+  include controlplane 
+  
+  include elasticsearch
+  include redis
+  include postgresql
+  include mongodb
 
   $home     = "/Users/dean"
   $my       = "${home}/my"
