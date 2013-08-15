@@ -33,6 +33,8 @@ class people::azumafuji {
   include screenhero
   include flux 
   include controlplane 
+  include blender
+  include turn-off-dashboard
   
   include elasticsearch
   include redis

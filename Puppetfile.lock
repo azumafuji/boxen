@@ -1,7 +1,12 @@
 GITHUBTARBALL
+  remote: azumafuji/puppet-blender
+  specs:
+    blender (0.1.1)
+
+GITHUBTARBALL
   remote: azumafuji/puppet-controlplane
   specs:
-    controlplane (0.1.0)
+    controlplane (1.0.0)
 
 GITHUBTARBALL
   remote: azumafuji/puppet-libreoffice
@@ -210,11 +215,12 @@ GITHUBTARBALL
 
 DEPENDENCIES
   autoconf (= 1.0.0)
+  blender (= 0.1.1)
   boxen (= 3.0.1)
   caffeine (= 1.0.0)
   chrome (= 1.1.1)
   clojure (= 1.2.0)
-  controlplane (= 0.1.0)
+  controlplane (= 1.0.0)
   dnsmasq (= 1.0.0)
   elasticsearch (= 1.0.1)
   emacs (= 1.1.0)

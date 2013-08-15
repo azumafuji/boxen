@@ -53,6 +53,7 @@ github "sizeup",          "1.0.0"
 github "screenhero",      "1.0.1"
 github "flux",            "1.0.0"
 github "controlplane",    "1.0.0", :repo => "azumafuji/puppet-controlplane"
+github "blender",         "0.1.1", :repo => "azumafuji/puppet-blender"
 
 
 github "java",            "1.1.0"
